@@ -36,7 +36,7 @@ Imagine a terraform IAM project that decided to go on a neon-lit joyride through
   
 
 `terraform init && terrform plan && terraform apply`
-`
+
 
 
   
